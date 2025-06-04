@@ -22,13 +22,13 @@ Here are some ideas to get you started:
   <table>
     <tr>
       <td align="left">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZrZmt0YW91eW42Y2F4em1wemgwNHhwcXY2cDNmaG8zcnV2dWk0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="310px" alt="robot arm">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZrZmt0YW91eW42Y2F4em1wemgwNHhwcXY2cDNmaG8zcnV2dWk0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="200px" alt="robot arm">
       </td>
       <td align="center">
-        <img src="https://i.gifer.com/J4o.gif" width="310px" alt="digital code flow">
+        <img src="https://i.gifer.com/J4o.gif" width="200px" alt="digital code flow">
       </td>
       <td align="right">
-        <img src="https://imarticus.org/blog/wp-content/uploads/2020/05/pa1.gif" width="310px" alt="automation process">
+        <img src="https://imarticus.org/blog/wp-content/uploads/2020/05/pa1.gif" width="200px" alt="automation process">
       </td>
     </tr>
   </table>
