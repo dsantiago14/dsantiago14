@@ -106,7 +106,7 @@ Más allá del código y los circuitos, disfruto:
   <table border="0" cellspacing="0" cellpadding="0" style="width: auto; border: none; border-collapse: collapse;">
     <tr>
       <td style="padding-right: 80px; border: none;">
-        <a href="https://www.linkedin.com/in/david-santiago-diaz-camacho-1a61b1336/" target="_blank">
+        <a href="www.linkedin.com/in/dsantiagodiaz" target="_blank">
           <img src="https://img.shields.io/badge/linkedin: Santiago%20Diaz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40px"/>
         </a>
       </td>
