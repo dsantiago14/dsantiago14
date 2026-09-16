@@ -40,10 +40,11 @@ Here are some ideas to get you started:
 
 <br>
 
-Estudiante de **Ingeniería Electrónica** con gran interés en **energías renovables**, **ciberseguridad**, **analítica de datos**, **automatización de procesos** y **control**.
-- Disfruto mucho leer sobre los últimos avances tecnológicos, la literatura contemporánea y de ciencia ficción.
-- Actualmente estoy aprendiendo sobre **Analítica de Datos** y **Machine Learning**.
-- Estoy buscando activamente una **oportunidad de pasantía** para aplicar mis conocimientos y seguir creciendo en el campo de la electrónica y la tecnología.
+Estudiante de Ingeniería Electrónica próximo a graduarme en diciembre de 2026, con experiencia en el análisis y validación de información técnica para proyectos de ingeniería.
+
+Mi formación técnica incluye automatización y control, programación, análisis de datos, sistemas embebidos y simulación. A través de proyectos académicos y experiencia profesional, he desarrollado la capacidad de analizar información técnica, identificar inconsistencias y aplicar conceptos de ingeniería a problemas prácticos.
+
+Estoy interesado en desarrollar mi carrera en roles de ingeniería y tecnología relacionados con la automatización y el control, las energías renovables, la ingeniería basada en datos y el desarrollo de software. También estoy abierto a explorar otras áreas en las que mi formación en ingeniería, habilidades de programación y enfoque analítico puedan contribuir a resolver desafíos técnicos, optimizar procesos y desarrollar soluciones prácticas.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
